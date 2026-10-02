@@ -1,0 +1,3 @@
+Qdrant is a vector database.
+It stores vectors and allows semantic search.
+A RAG system can use Qdrant to retrieve relevant document chunks.

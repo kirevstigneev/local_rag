@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is Qdrant?",
+        "expected_answer": "Qdrant is a vector database.",
+        "expected_source": "test.txt"
+    },
+    {
+        "question": "What does Qdrant enable?",
+        "expected_answer": "semantic search",
+        "expected_source": "test.txt"
+    },
+    {
+        "question": "What kind of database is Qdrant?",
+        "expected_answer": "vector database",
+        "expected_source": "test.txt"
+    },
+    {
+        "question": "Does Qdrant support semantic search?",
+        "expected_answer": "semantic search",
+        "expected_source": "test.txt"
+    },
+    {
+        "question": "What is quantum computing?",
+        "expected_answer": "I don't have enough information",
+        "expected_source": null
+    }
+]
